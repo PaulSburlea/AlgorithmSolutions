@@ -33,7 +33,6 @@ The structure follows the [NeetCode Roadmap](https://neetcode.io/roadmap) for in
 - `math_geometry/` — Math and geometry problems
 - `utilities/` — Helper functions and reusable templates
 
-> Empty folders can contain `.gitkeep` to maintain structure.
 
 ---
 
