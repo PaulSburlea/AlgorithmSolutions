@@ -31,7 +31,6 @@ The structure follows the [NeetCode Roadmap](https://neetcode.io/roadmap) for in
 - `2d_dp/` — 2-Dimensional dynamic programming
 - `bit_manipulation/` — Bit manipulation problems
 - `math_geometry/` — Math and geometry problems
-- `utilities/` — Helper functions and reusable templates
 
 
 ---
