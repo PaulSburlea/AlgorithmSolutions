@@ -1,3 +1,9 @@
+// Problem: Concatenation of Array
+// Platform: NeetCode
+// Link: https://neetcode.io/problems/concatenation-of-array?list=neetcode250
+// Difficulty: Easy
+// Category: Arrays & Hashing
+
 #include <iostream>
 #include <vector>
 using namespace std;
