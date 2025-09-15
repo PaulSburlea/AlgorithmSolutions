@@ -1,2 +1,13 @@
 .idea/
+cmake-build-debug/
+cmake-build-release/
 *.iml
+
+# Mac/Windows temporary files
+.DS_Store
+Thumbs.db
+
+# Build output
+*.exe
+*.out
+*.o
