@@ -31,9 +31,7 @@ The structure follows the [NeetCode Roadmap](https://neetcode.io/roadmap) for in
 - `2d_dp/` — 2-Dimensional dynamic programming
 - `bit_manipulation/` — Bit manipulation problems
 - `math_geometry/` — Math and geometry problems
-- `utilities/` — Helper functions and reusable templates
 
-> Empty folders can contain `.gitkeep` to maintain structure.
 
 ---
 
@@ -66,9 +64,9 @@ The structure follows the [NeetCode Roadmap](https://neetcode.io/roadmap) for in
 
 Each solution is a separate executable. Example using CMake:
 
-cmake .
-make
-./arrays_hashing/two_sum
+- `cmake .`
+- `make`
+- `./arrays_hashing/two_sum`
 
 Or run directly in CLion by selecting the target executable.
 
