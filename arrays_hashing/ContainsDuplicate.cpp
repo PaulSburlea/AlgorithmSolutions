@@ -11,7 +11,7 @@ using namespace std;
 
 class Solution {
 public:
-    bool hasDuplicate(vector<int>& nums) {
+    bool hasDuplicate(const vector<int>& nums) {
         // folosim unordered_set pentru a retine unique values
         unordered_set<int> seen;
 

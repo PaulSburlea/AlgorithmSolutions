@@ -12,7 +12,7 @@ using namespace std;
 
 class Solution {
 public:
-    vector<int> topKFrequent(vector<int>& nums, int k) {
+    vector<int> topKFrequent(const vector<int>& nums, const int k) {
 
         unordered_map<int, int> freq;
         for (const auto x : nums) {
