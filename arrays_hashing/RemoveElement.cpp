@@ -1,12 +1,17 @@
+// Problem: Remove Element
+// Platform: NeetCode
+// Link: https://neetcode.io/problems/remove-element?list=neetcode250
+// Difficulty: Easy
+// Category: Arrays & Hashing
+
 #include <iostream>
-#include <algorithm>
 #include <vector>
 
 using namespace std;
 
 class Solution {
 public:
-    static int removeElement(vector<int>& nums, const int val) {
+    int removeElement(vector<int>& nums, const int val) {
         // using k to track index
         int k = 0;
 
