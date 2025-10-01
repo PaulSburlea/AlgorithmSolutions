@@ -11,4 +11,5 @@ add_executable(AlgorithmSolutions arrays_hashing/ConcatenationOfArray.cpp
         "arrays_hashing/Group Anagram.cpp"
         arrays_hashing/TopKFrequentElements.cpp
         arrays_hashing/RemoveElement.cpp
-        arrays_hashing/MajorityElement.cpp)
+        arrays_hashing/MajorityElement.cpp
+        arrays_hashing/DesignHashset.cpp)
