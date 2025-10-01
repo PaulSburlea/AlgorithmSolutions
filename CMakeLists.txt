@@ -13,4 +13,5 @@ add_executable(AlgorithmSolutions arrays_hashing/ConcatenationOfArray.cpp
         arrays_hashing/RemoveElement.cpp
         arrays_hashing/MajorityElement.cpp
         arrays_hashing/DesignHashset.cpp
-        arrays_hashing/DesignHashMap.cpp)
+        arrays_hashing/DesignHashMap.cpp
+        two_pointers/ReverseString.cpp)
