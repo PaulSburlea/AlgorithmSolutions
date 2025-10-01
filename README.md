@@ -40,7 +40,7 @@ The structure follows the [NeetCode Roadmap](https://neetcode.io/roadmap) for in
 | Category                  | Status        |
 |---------------------------|--------------|
 | Arrays & Hashing          | 🔄 In progress |
-| Two Pointers              | ❌ Not started |
+| Two Pointers              | 🔄 In progress |
 | Stack                     | ❌ Not started |
 | Binary Search             | ❌ Not started |
 | Sliding Window            | ❌ Not started |
