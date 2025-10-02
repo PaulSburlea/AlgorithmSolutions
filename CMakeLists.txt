@@ -17,4 +17,5 @@ add_executable(AlgorithmSolutions arrays_hashing/ConcatenationOfArray.cpp
         two_pointers/ReverseString.cpp
         two_pointers/ValidPalindrome.cpp
         two_pointers/ValidPalindrome2.cpp
-        two_pointers/MergeStringsAlternately.cpp)
+        two_pointers/MergeStringsAlternately.cpp
+        two_pointers/MergeSortedArray.cpp)
